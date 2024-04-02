@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("aula-01-converter-tipos-de-dados-cast")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+da627db990f78a6b7b4b90c3a804430474d237d7")]
 [assembly: System.Reflection.AssemblyProductAttribute("aula-01-converter-tipos-de-dados-cast")]
 [assembly: System.Reflection.AssemblyTitleAttribute("aula-01-converter-tipos-de-dados-cast")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
